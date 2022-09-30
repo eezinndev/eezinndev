@@ -1,4 +1,4 @@
-### I'M THE GEFERSON! DEVELOPER OF BOTS
+### Eu sou o Geferson, um desenvolvedor de bots.
 ![Blog](https://img.shields.io/website?label-EEZINN.com&style=for-the-badge&url=https://eezinndev.com/)
 
 [![Blog](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/scorpiomachineof)
