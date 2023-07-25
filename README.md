@@ -1,4 +1,4 @@
-### Dev Geferson
+### Dev eezinn
 
 [![Blog](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/eezinn)
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/eezinn)
